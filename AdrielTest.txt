@@ -1,1 +1,2 @@
 Lorem ipsummm
+Modificando el archivo al mismo tiempo sale conflicto?
